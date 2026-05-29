@@ -1,8 +1,9 @@
 <p align="center">
   <h1 align="center">Real Estate Mobile App</h1>
+  <p align="center">🥇 Winner — SMIT Final Hackathon · Web & Mobile Batch 04 · 75 teams</p>
 </p>
 
-**Welcome to the FRONT_END of the Social Real Estate Mobile App**, developed as part of the 12 hours long Final Hackathon of the WEB & MOBILE BATCH 04 organized by **[Saylani Mass IT Training Program(SMIT)](https://saylaniwelfare.com/en/services/education/technical-education/saylani-mass-it-training)** on August 28, 2022.
+**Welcome to the FRONT_END of the Social Real Estate Mobile App**, developed as part of Final Hackathon of the WEB & MOBILE BATCH 04 organized by **[Saylani Mass IT Training Program(SMIT)](https://saylaniwelfare.com/en/services/education/technical-education/saylani-mass-it-training)** on August 28, 2022.
 
 It is important to note that **[Saylani Mass IT Training Program(SMIT)](https://saylaniwelfare.com/en/services/education/technical-education/saylani-mass-it-training)** is an exceptional institution launched by the **[Saylani Welfare International Trust of Pakistan](https://saylaniwelfare.com/en)**, dedicated to providing the latest IT skills to aspiring developers.
  <p align="center">
